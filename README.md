@@ -15,9 +15,9 @@ faire une scénario d'entretien social et faire une test de cette scénario sur 
 ![cas dutilisation](./images/cas-utilisation.png)
 **l'empathie :** <br>
 ![carte d'empathie](./images/empathie.png)
-**Maquettes :** <br>
+**Maquette 1:** <br>
 ![interface 1](./images/interface1.png)
-**l'empathie :** <br>
+**Maquette 2:** <br>
 ![interface 2](./images/interface2.png)
 
 ## Solution 
