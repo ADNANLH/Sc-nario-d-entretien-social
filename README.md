@@ -10,15 +10,7 @@ Test d'entretien social
 - UI: Interfaces
   - Charte graphique (maquettage de prototype)
   - Langue
-## Référence
-**cas d'utilisation :**  <br>
-![cas dutilisation](./images/cas-utilisation.png)
-**l'empathie :** <br>
-![carte d'empathie](./images/empathie.png)
-**Maquette 1:** <br>
-![interface 1](./images/interface1.png)
-**Maquette 2:** <br>
-![interface 2](./images/interface2.png)
+
 
 ## Solution 
 [Scénario entretien social](https://docs.google.com/presentation/d/15SIoV3ZUCIhTMoKghKYmzdA5hE7TmAl2v7EpuA40sfM/edit#slide=id.p)
